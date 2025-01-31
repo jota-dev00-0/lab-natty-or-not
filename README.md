@@ -23,19 +23,49 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pequena Poesia Reflexiva Criada com DeepSeek
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DeepSeek
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para criar uma poesia reflexiva e poética
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**Eterno Esperar**  
+
+Na sombra do relógio, o tempo escorre,  
+Feito areia fina entre os dedos meus.  
+Teu nome é um suspiro que não morre,  
+Ecoa nas paredes do silêncio teu.  
+
+Trazes no olhar a geada da manhã,  
+E o mel da tarde em gestos desatentos.  
+Na curva do teu riso, a primavera dança,  
+E no teu pranto, rios navegam lentos.  
+
+Se um dia a noite nos engolir inteiros,  
+E o vento apagar nossa história escrita,  
+Que as estrelas, mudas cronistas dos becos,  
+Guarden o eco do amor que nos habita.  
+
+Até lá, planto versos no asfalto frio,  
+Raízes de tinta à procura de teu vão.  
+Sou o relâmpago que insiste em ser tardio,  
+Aurora que te espera em cada amanhecer vão.  
+
+Talvez a distância seja só um rio estreito,  
+Onde nossas mãos, pontes esquecidas,  
+Aprendam a cruzar o invisível peito  
+E encontrem, enfim, as mesmas feridas.  
+
+Enquanto isso, canto.  
+Enquanto isso, espero.  
+O universo é breve, mas o amor —  
+é um século aceso em cada verso que te deram.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Simplesmente 
 ```
 
 ### Exemplos e Insigths
